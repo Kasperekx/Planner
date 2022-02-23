@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "Design web app",
+      "details": "Designing new website in figma tommorow",
+      "complete": false,
+      "id": 2
+    }
+  ]
+}
